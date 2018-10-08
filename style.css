@@ -1,0 +1,29 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+/* Write all your CSS here! */
+
+p{
+    color: #cc193c;
+    font-size: 2em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.bg-light {
+    background-color: #494949 !important;  
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #b2b2ab;
+}
